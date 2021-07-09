@@ -76,6 +76,7 @@ class AdmobHelper {
   }
 
   void showInterad(){
+
     if(_interstitialAd == null){
       return;
     }
